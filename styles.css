@@ -1,3 +1,9 @@
+body {
+  background-image: url("rubiksarena.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
